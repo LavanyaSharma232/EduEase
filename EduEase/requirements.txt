@@ -1,0 +1,9 @@
+streamlit
+faster-whisper
+openai
+ctransformers
+huggingface-hub
+gTTS
+Pillow
+yt-dlp
+ffmpeg-python
